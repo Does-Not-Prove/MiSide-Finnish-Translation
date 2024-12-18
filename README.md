@@ -12,3 +12,7 @@ open game directory then go in to Data and put it into Languages after that is s
 
 # Contact
 you can contact me on either x @Does_Not_Prove or Delta_Test on Discord
+
+# Plans
+Fix my mistakes if and when found
+Maybe use the Russian as the base language to translate from for a better translation
