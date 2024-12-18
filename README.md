@@ -10,6 +10,5 @@ also i dont know if anyone has done this before at least i didnt find anyone do 
 open game directory then go in to Data and put it into Languages after that is should show up in game!
 ****(Game Directory)\Data\Languages\
 
-# yeah
-Enjoy ig
-you can contact me on either @Does_Not_Prove on x or Delta_Test on Discord
+# Contact
+you can contact me on either x @Does_Not_Prove or Delta_Test on Discord
