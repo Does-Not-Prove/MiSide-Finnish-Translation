@@ -1,4 +1,5 @@
 # MiSide-Finnish-Translation
+![yep](https://github.com/user-attachments/assets/8e87a204-c44a-405e-8352-4692fd929200)
 
 MiSide Finnish Translation
 
@@ -10,6 +11,7 @@ also i dont know if anyone has done this before at least i didnt find anyone do 
 open game directory then go in to Data and put it into Languages after that is should show up in game!
 
 ****Unzip the file then go to (Game Directory)\Data\Languages\ and put it into Languages****
+
 
 # Contact
 you can contact me on either x @Does_Not_Prove or Delta_Test on Discord
