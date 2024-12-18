@@ -9,7 +9,7 @@ also i dont know if anyone has done this before at least i didnt find anyone do 
 # how to use 
 open game directory then go in to Data and put it into Languages after that is should show up in game!
 
-****(Game Directory)\Data\Languages\****
+****Unzip the file then go to (Game Directory)\Data\Languages\ and put it into Languages****
 
 # Contact
 you can contact me on either x @Does_Not_Prove or Delta_Test on Discord
